@@ -6,3 +6,4 @@ export 'localization/de.dart';
 export 'localization/default.dart';
 export 'localization/en.dart';
 export 'localization/ru.dart';
+export 'localization/ar.dart';

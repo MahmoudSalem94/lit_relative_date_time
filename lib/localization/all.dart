@@ -6,4 +6,5 @@ const List<RelativeDateLocalization> LOC_ALL = [
   LOC_EN,
   LOC_DE,
   LOC_RU,
+  LOC_AR,
 ];

@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
         const Locale('en'), // English, no country code
         const Locale('de'), // German, no country code
         const Locale('ru'), // Russian, no country code
+        const Locale('ar'), // Arabic, no country code
       ],
       home: MyHomePage(),
     );
