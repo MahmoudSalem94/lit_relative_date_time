@@ -25,7 +25,7 @@ const RelativeDateLocalization LOC_AR = RelativeDateLocalization(
   prepositionFuture: 'فى خلال',
   atTheMoment: 'الان',
   formatOrderPast: [
-    FormatComponent.preposition
+    FormatComponent.preposition,
     FormatComponent.value,
     FormatComponent.unit,
     
